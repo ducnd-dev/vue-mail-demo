@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "临时邮箱演示",
+    "subtitle": "临时邮箱服务"
+  },
+  "nav": {
+    "inbox": "收件箱",
+    "language": "语言"
+  },
+  "email": {
+    "tempEmailTitle": "您的临时邮箱",
+    "generateNew": "生成新邮箱",
+    "refreshInbox": "刷新收件箱",
+    "autoRefresh": "每10秒自动刷新",
+    "noEmails": "暂无邮件。您的收件箱是空的。",
+    "emailDetails": "邮件详情",
+    "from": "发件人",
+    "to": "收件人",
+    "subject": "主题",
+    "date": "日期",
+    "backToInbox": "← 返回收件箱"
+  },
+  "languages": {
+    "en": "English",
+    "cn": "中文",
+    "jp": "日本語",
+    "it": "Italiano",
+    "es": "Español"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "TempMail Demo",
+    "subtitle": "Temporary Email Service"
+  },
+  "nav": {
+    "inbox": "Inbox",
+    "language": "Language"
+  },
+  "email": {
+    "tempEmailTitle": "Your Temporary Email",
+    "generateNew": "Generate New Email",
+    "refreshInbox": "Refresh Inbox",
+    "autoRefresh": "Auto-refresh every 10 seconds",
+    "noEmails": "No emails yet. Your inbox is empty.",
+    "emailDetails": "Email Details",
+    "from": "From",
+    "to": "To", 
+    "subject": "Subject",
+    "date": "Date",
+    "backToInbox": "← Back to Inbox"
+  },
+  "languages": {
+    "en": "English",
+    "cn": "中文",
+    "jp": "日本語",
+    "it": "Italiano",
+    "es": "Español"
+  }
+}

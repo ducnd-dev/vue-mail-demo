@@ -1,0 +1,30 @@
+{
+  "app": {
+    "title": "Demo TempMail",
+    "subtitle": "Servicio de Email Temporal"
+  },
+  "nav": {
+    "inbox": "Bandeja de entrada",
+    "language": "Idioma"
+  },
+  "email": {
+    "tempEmailTitle": "Tu Email Temporal",
+    "generateNew": "Generar Nuevo Email",
+    "refreshInbox": "Actualizar Bandeja",
+    "autoRefresh": "Actualización automática cada 10 segundos",
+    "noEmails": "Aún no hay emails. Tu bandeja está vacía.",
+    "emailDetails": "Detalles del Email",
+    "from": "De",
+    "to": "Para",
+    "subject": "Asunto",
+    "date": "Fecha",
+    "backToInbox": "← Volver a Bandeja"
+  },
+  "languages": {
+    "en": "English",
+    "cn": "中文",
+    "jp": "日本語",
+    "it": "Italiano",
+    "es": "Español"
+  }
+}
