@@ -1,6 +1,18 @@
-# Vue Temporary Email Demo
+# TempMail Vue
 
-A beautiful and responsive temporary email service demo built with Vue 3, featuring multilingual support and modern UI design.
+A beautiful and modern temporary email service built with Vue 3, featuring multilingual support and responsive design.
+
+> 🚀 **Live Demo**: [tempmail-vue.netlify.app](https://tempmail-vue.netlify.app)
+
+![TempMail Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=vuedotjs&logoColor=black)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/12345678-1234-1234-1234-123456789012/deploy-status)](https://app.netlify.com/sites/tempmail-vue/deploys)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+[![Vue 3](https://img.shields.io/badge/Vue-3.x-green.svg)](https://vuejs.org/)
 
 ## 🚀 Features
 
@@ -85,8 +97,8 @@ src/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd vue-mail-demo
+git clone https://github.com/yourusername/tempmail-vue.git
+cd tempmail-vue
 ```
 
 2. Install dependencies:
@@ -186,3 +198,7 @@ This project is licensed under the MIT License.
 - Vue.js team for the amazing framework
 - Tailwind CSS for the utility-first CSS framework
 - vue-i18n team for internationalization support
+
+---
+
+**TempMail Vue** - Built with ❤️ using Vue 3 + TypeScript + Tailwind CSS

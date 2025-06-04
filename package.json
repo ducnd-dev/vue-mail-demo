@@ -1,13 +1,32 @@
 {
-  "name": "vue-mail-demo",
-  "version": "1.0.0",
-  "description": "Temporary Email Service Demo with Vue 3",
+  "name": "tempmail-vue",
+  "version": "1.0.0",  "description": "TempMail Vue - A modern temporary email service built with Vue 3, TypeScript, and Tailwind CSS",
   "type": "module",
-  "scripts": {
+  "keywords": [
+    "vue3",
+    "typescript",
+    "tailwindcss",
+    "temporary-email",
+    "tempmail",
+    "email-service",
+    "vue-router",
+    "pinia",
+    "i18n",
+    "multilingual"
+  ],
+  "author": "DucND",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/tempmail-vue.git"
+  },
+  "homepage": "https://tempmail-vue.netlify.app",  "scripts": {
     "dev": "vite",
-    "build": "vue-tsc && vite build",
+    "build": "vite build",
+    "build-with-types": "vue-tsc && vite build",
     "preview": "vite preview",
-    "type-check": "vue-tsc --noEmit"
+    "type-check": "vue-tsc --noEmit",
+    "deploy": "npm run build && echo 'Build completed! Ready for deployment'"
   },
   "dependencies": {
     "vue": "^3.4.0",

@@ -4,7 +4,7 @@ import { createI18n } from 'vue-i18n'
 const messages = {
   en: {
     app: {
-      title: "TempMail Demo",
+      title: "TempMail Vue",
       subtitle: "Temporary Email Service"
     },
     nav: {
@@ -32,10 +32,9 @@ const messages = {
       it: "Italiano",
       es: "Español"
     }
-  },
-  cn: {
+  },  cn: {
     app: {
-      title: "临时邮箱演示",
+      title: "临时邮箱 Vue",
       subtitle: "临时邮箱服务"
     },
     nav: {
@@ -63,10 +62,9 @@ const messages = {
       it: "Italiano",
       es: "Español"
     }
-  },
-  jp: {
+  },  jp: {
     app: {
-      title: "テンプメールデモ",
+      title: "TempMail Vue",
       subtitle: "一時メールサービス"
     },
     nav: {
@@ -94,10 +92,9 @@ const messages = {
       it: "Italiano",
       es: "Español"
     }
-  },
-  it: {
+  },  it: {
     app: {
-      title: "Demo TempMail",
+      title: "TempMail Vue",
       subtitle: "Servizio Email Temporanea"
     },
     nav: {
@@ -125,10 +122,9 @@ const messages = {
       it: "Italiano",
       es: "Español"
     }
-  },
-  es: {
+  },  es: {
     app: {
-      title: "Demo TempMail",
+      title: "TempMail Vue",
       subtitle: "Servicio de Email Temporal"
     },
     nav: {
