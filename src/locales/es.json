@@ -15,10 +15,10 @@
     "noEmails": "Aún no hay emails. Tu bandeja está vacía.",
     "emailDetails": "Detalles del Email",
     "from": "De",
-    "to": "Para",
-    "subject": "Asunto",
+    "to": "Para",    "subject": "Asunto",
     "date": "Fecha",
-    "backToInbox": "← Volver a Bandeja"
+    "backToInbox": "← Volver a Bandeja",
+    "unread": "No leído"
   },
   "languages": {
     "en": "English",

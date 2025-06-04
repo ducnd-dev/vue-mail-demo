@@ -15,10 +15,10 @@
     "noEmails": "No emails yet. Your inbox is empty.",
     "emailDetails": "Email Details",
     "from": "From",
-    "to": "To", 
-    "subject": "Subject",
+    "to": "To",    "subject": "Subject",
     "date": "Date",
-    "backToInbox": "← Back to Inbox"
+    "backToInbox": "← Back to Inbox",
+    "unread": "Unread"
   },
   "languages": {
     "en": "English",

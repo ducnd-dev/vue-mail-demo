@@ -15,10 +15,10 @@
     "noEmails": "メールはまだありません。受信箱は空です。",
     "emailDetails": "メール詳細",
     "from": "送信者",
-    "to": "宛先",
-    "subject": "件名",
+    "to": "宛先",    "subject": "件名",
     "date": "日付",
-    "backToInbox": "← 受信箱に戻る"
+    "backToInbox": "← 受信箱に戻る",
+    "unread": "未読"
   },
   "languages": {
     "en": "English",

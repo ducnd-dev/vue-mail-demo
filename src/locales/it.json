@@ -15,10 +15,10 @@
     "noEmails": "Nessuna email ancora. La tua posta è vuota.",
     "emailDetails": "Dettagli Email",
     "from": "Da",
-    "to": "A",
-    "subject": "Oggetto",
+    "to": "A",    "subject": "Oggetto",
     "date": "Data",
-    "backToInbox": "← Torna alla Posta"
+    "backToInbox": "← Torna alla Posta",
+    "unread": "Non letto"
   },
   "languages": {
     "en": "English",

@@ -15,10 +15,10 @@
     "noEmails": "暂无邮件。您的收件箱是空的。",
     "emailDetails": "邮件详情",
     "from": "发件人",
-    "to": "收件人",
-    "subject": "主题",
+    "to": "收件人",    "subject": "主题",
     "date": "日期",
-    "backToInbox": "← 返回收件箱"
+    "backToInbox": "← 返回收件箱",
+    "unread": "未读"
   },
   "languages": {
     "en": "English",
